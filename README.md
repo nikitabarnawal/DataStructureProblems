@@ -1,2 +1,2 @@
 # DataStructureProblems
-This repository provides solution to the data structure problems along with their solutions
+This repository provides the data structure problems along with their solutions
