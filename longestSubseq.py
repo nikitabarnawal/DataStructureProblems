@@ -8,7 +8,7 @@ def findLongestConseqSubseq(arr, n):
         if B[i+1] == B[i]:
             continue
         
-        if B[i+1] == B[i] + 1:
+        elif B[i+1] == B[i] + 1:
             count += 1
         
             if count > maxCount:
